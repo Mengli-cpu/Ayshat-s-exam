@@ -5,7 +5,6 @@
     <div class="h1 py-3 text-center fw-semibold text-secondary">
         Authors:
     </div>
-    
     <div>
         <table class="table table-hover h5">
             <thead>
