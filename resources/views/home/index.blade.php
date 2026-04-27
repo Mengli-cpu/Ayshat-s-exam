@@ -137,6 +137,7 @@
     </div>
 </div>
 
+
 <script>
     function addToCartAndGo(id, title, price, image) {
         const item = { id, title, price, image, quantity: 1 };
